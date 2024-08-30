@@ -18,9 +18,13 @@ cd TimeSeries-Forecasting-Cloud-Workload
 pip install -r requirements.txt
 
 - **Install additional Dependencies**
--pip install jupyter notebook
--pip install numpy pandas matplotlib seaborn
--pip install tensorflow keras statsmodels xgboost
+ ```bash
+
+   pip install jupyter notebook
+   pip install networkx
+   pip install torch  # Or `pip install torch==version_number` for a specific version
+   pip install numpy
+   pip install matplotlib
 
 ## Documentation
 
