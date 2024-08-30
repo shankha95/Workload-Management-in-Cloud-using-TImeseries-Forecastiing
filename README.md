@@ -15,15 +15,12 @@ The repository contains the codebase used for developing and evaluating the mode
 git clone https://github.com/shnakha95/TimeSeries-Forecasting-Cloud-Workload.git
 cd TimeSeries-Forecasting-Cloud-Workload
 
-python3.8 -m venv venv
-source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-
 pip install -r requirements.txt
 
-*Install additional Dependencies*
-pip install jupyter notebook
-pip install numpy pandas matplotlib seaborn
-pip install tensorflow keras statsmodels xgboost
+- **Install additional Dependencies**
+-pip install jupyter notebook
+-pip install numpy pandas matplotlib seaborn
+-pip install tensorflow keras statsmodels xgboost
 
 ## Documentation
 
