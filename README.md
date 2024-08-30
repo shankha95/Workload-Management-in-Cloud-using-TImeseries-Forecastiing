@@ -6,7 +6,7 @@ This project focuses on optimizing workload management in cloud computing enviro
 The repository contains the codebase used for developing and evaluating the models discussed in the project. For a detailed explanation of the methodologies, results, and evaluation metrics, please refer to the full documentation linked below.
 
 ## Getting Started
-git clone https://github.com/yourusername/TimeSeries-Forecasting-Cloud-Workload.git
+git clone https://github.com/shnakha95/TimeSeries-Forecasting-Cloud-Workload.git
 cd TimeSeries-Forecasting-Cloud-Workload
 
 python3.8 -m venv venv
@@ -19,3 +19,8 @@ pip install jupyter notebook
 pip install numpy pandas matplotlib seaborn
 pip install tensorflow keras statsmodels xgboost
 
+## Documentation
+
+For a comprehensive overview of the project, including the methodology, dataset details, feature engineering process, and evaluation metrics, please refer to the full documentation.
+
+[Full Project Documentation](./Documentation.pdf)
