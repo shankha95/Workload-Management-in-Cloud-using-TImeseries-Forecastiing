@@ -12,11 +12,23 @@ The repository contains the codebase used for developing and evaluating the mode
 - **Python 3.8.10**: This project requires Python version 3.8.10. You can download and install it from the official [Python website](https://www.python.org/downloads/release/python-3810/).
 - **pip**: Python package installer, usually included with Python.
   
-git clone https://github.com/shnakha95/TimeSeries-Forecasting-Cloud-Workload.git
-cd TimeSeries-Forecasting-Cloud-Workload
+### Installation
 
-pip install -r requirements.txt
+1. **Clone the Repository**:
 
+   ```bash
+   git clone https://github.com/yourusername/TimeSeries-Forecasting-Cloud-Workload.git
+   cd TimeSeries-Forecasting-Cloud-Workload
+
+   python3.8 -m venv venv
+   source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+
+2. **Addtional Dependencies**:
+   ````bash
+   pip install -r requirements.txt
+   pip install jupyter notebook
+   pip install numpy pandas matplotlib seaborn
+   pip install tensorflow keras statsmodels xgboost
 
 ## Documentation
 
