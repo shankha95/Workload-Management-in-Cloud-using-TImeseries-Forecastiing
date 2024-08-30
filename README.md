@@ -23,3 +23,10 @@ pip install -r requirements.txt
 For a comprehensive overview of the project, including the methodology, dataset details, feature engineering process, and evaluation metrics, please refer to the full documentation.
 
 [Full Project Documentation](./Documentation.pdf)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+## Contributing 
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
